@@ -1,4 +1,5 @@
 # MoveIt Task Constructor Framework
+## My fork is stable and working on Ubuntu 20.04 and ROS noetic
 
 The Task Constructor framework provides a flexible and transparent way to define and plan actions that consist of multiple interdependent subtasks.
 It draws on the planning capabilities of [MoveIt](https://moveit.ros.org/) to solve individual subproblems in black-box *planning stages*.
